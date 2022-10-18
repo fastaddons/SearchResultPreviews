@@ -1,5 +1,4 @@
 # Privacy Policy
-
 Search Result Previews doesn't collect any data.  
 User preferences (options page data) are stored only locally and are accessible only by extension itself.
 
@@ -14,7 +13,7 @@ https://srp.fastaddons.com/
 
 There is no tracking of any kind. No personal information is transferred.  
 
-### Upcoming Freemium model
+### Upcoming Freemium model ###
 Existing features will stay forever free and without ads.  
 New versions will add new "premium" features which will require payment.  
 I will add more details later on as it will depend on the final server cost, mostly the cost of generating new page thumbnails.  
